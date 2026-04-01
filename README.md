@@ -14,6 +14,8 @@ cd calculator-app
 
 # Run
 npm start
+
+```
 The app opens at http://localhost:3000
 
 # Features
